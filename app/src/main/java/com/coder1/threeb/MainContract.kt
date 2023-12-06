@@ -1,5 +1,8 @@
 package com.coder1.threeb
 
+import com.coder1.base.BasePresenter
+import com.coder1.base.BaseView
+
 interface MainContract {
     interface Presenter : BasePresenter {
         fun onViewCreated()

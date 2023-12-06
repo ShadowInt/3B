@@ -1,4 +1,4 @@
-package com.coder1.threeb
+package com.coder1.base
 
 interface BasePresenter {
     fun onDestroy()
